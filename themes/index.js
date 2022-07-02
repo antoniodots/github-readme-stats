@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+    byellow: {
+    title_color: "f3ff0a",
+    icon_color: "f3ff00",
+    text_color: "ffffff",
+    bg_color: "17181a",
   }
 };
 
